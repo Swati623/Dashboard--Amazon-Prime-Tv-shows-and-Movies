@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Different Tv Shows and Movies on Amazon Prime"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "772e0c82-f0e1-4aea-b564-14e9b86c71ff"
+  }
+}
